@@ -278,7 +278,7 @@ La colección se encuentra en:
 
 ```txt
 
-backend/postman/Sistema\_Compras\_Ventas.postman\_collection.json
+backend/postman/ShoppingSystem.postman_collection.json
 
 ```
 
